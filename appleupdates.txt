@@ -3,4 +3,3 @@ swquery.apple.com
 swdownload.apple.com
 swcdn.apple.com
 swdist.apple.com
-*.apple.*
